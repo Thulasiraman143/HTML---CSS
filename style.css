@@ -1,0 +1,105 @@
+body{ 
+    /*background-color:greenyellow;*/
+
+
+    background-image: url(image.jpg);
+   background-size: 100%;
+}
+
+p{
+    background-color: aqua; color: blue;
+}
+
+
+h1{
+    background-color: blue; color: black;
+}
+
+#para{
+    background-color: blueviolet; color:red;
+}
+
+
+
+.thalapathi{
+    background-color: brown; color: antiquewhite;
+}
+
+
+div{  background-color: aqua;
+opacity: 50%;}
+
+.dotted{
+border-style: dotted;
+text-align: center;
+color: red;
+border-color: aqua; 
+}
+.solid{
+    border-style: solid;
+    width: 50%;
+}
+.double{
+    border-style: double;
+    height: fit-content;
+}
+.inset{
+    border-style:inset;
+    width: fit-content;color: white;
+}
+
+.margins{
+    border: 5px double;
+    margin-top: 100px;
+    margin-left:100px;
+    margin-bottom:50px;
+    margin-right:50px;
+}
+
+.padding{
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+ 
+
+#boxmodel{
+    background-color: white;
+    border: 15px solid blue;
+    width: fit-content;
+    margin: 20px;
+    padding: 50px;
+}
+
+a{
+    color:aqua;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    color: white;
+}
+
+
+img{
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
